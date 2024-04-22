@@ -1,2 +1,2 @@
-# C-173
-AR TOY STORE STAGE 6
+# PRO-C173-AR
+After class project solution for C173
